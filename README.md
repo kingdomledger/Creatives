@@ -19,7 +19,7 @@ This project includes:
 - Final video link
 - Notes on limitations and improvements
 
-[View project →](./UGC-v1/)
+[View project →](./Output/UGC-v1/)
 
 ---
 
@@ -35,4 +35,4 @@ This project includes:
 - Simple production notes
 - Ideas for improving future versions
 
-[View project →](./UGC-v2/)
+[View project →](./Output/UGC-v2/)
